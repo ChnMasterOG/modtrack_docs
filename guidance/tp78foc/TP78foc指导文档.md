@@ -389,13 +389,13 @@ modtrack VIA切层功能：
 
 ## 改键和配置键盘工具介绍
 
-TP78foc支持 **VIA网页改键** 或者使用 **modtrack增强式via改键（推荐）**
+TP78 支持 modtrack VIA 网页改键（网页更新可能导致截图非最新版本，图例仅供参考）。
 
-打开改键网址：<https://via.modtrack.top/>
+打开 modtrack VIA 改键网址：<https://via.modtrack.top/>
 
 ![image16.png](images/image16.png)
 
-点击"连接键盘"后就进入改键页面，可以直接选中右边按键进行修改。
+选择"TP78_foc"键盘并点击"连接键盘"后就进入改键页面，可以直接选中右边按键进行修改。
 
 ![image17.png](images/image17.png)
 
